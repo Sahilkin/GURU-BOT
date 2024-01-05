@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  [923175013358', 'SAHIL KING', true],
-  ['923078W83084', 'SAHIL KING', true], 
+  ['923175013358', 'SAHIL KING', true],
+  ['923078283084', 'SAHIL KING', true], 
   [''] 
 ] //Number of owners
 
@@ -53,7 +53,7 @@ global.APIKeys = { // APIKey Here
 global.botname = 'SAHIL KING 👑'
 global.premium = 'true'
 global.packname = 'SAHIL KING 👑' 
-global.author = '@*𓆩❥⋆⃝*~ساحل~*𓆪࿐*' 
+global.author = '@*🌹🆂ᵃʰⁱˡ 🅺ɪɴɢ 🅾84🌹*' 
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://chat.whatsapp.com/CDWzBxhrB4uEmDEavQjT70\n' 
 global.dygp = 'https://chat.whatsapp.com/CDWzBxhrB4uEmDEavQjT70'
@@ -64,7 +64,7 @@ global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg'
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
 
-global.wait = '*⌛ _Charging..._*\*𓆩❥⋆⃝*~ساحل~*𓆪࿐**'
+global.wait = '*⌛ _Charging..._*\*🌹🆂ᵃʰⁱˡ 🅺ɪɴɢ 🅾84🌹*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
