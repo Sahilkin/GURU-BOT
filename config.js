@@ -49,11 +49,11 @@ global.APIKeys = { // APIKey Here
   'https://api-fgmods.ddns.net': 'fg-dylux'
 }
 
-// Sticker SAHIL KING 👑
-global.botname = 'SAHIL KING 👑'
+// Sticker SAHIL KING 
+global.botname = 'SAHIL KING '
 global.premium = 'true'
-global.packname = 'SAHIL KING 👑' 
-global.author = '@*🌹🆂ᵃʰⁱˡ 🅺ɪɴɢ 🅾84🌹*' 
+global.packname = 'SAHIL KING ' 
+global.author = '@SAHILKING' 
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://chat.whatsapp.com/CDWzBxhrB4uEmDEavQjT70\n' 
 global.dygp = 'https://chat.whatsapp.com/CDWzBxhrB4uEmDEavQjT70'
@@ -64,7 +64,7 @@ global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg'
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
 
-global.wait = '*⌛ _Charging..._*\*🌹🆂ᵃʰⁱˡ 🅺ɪɴɢ 🅾84🌹*'
+global.wait = '*⌛ _Charging..._*\SAHIL KING'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
