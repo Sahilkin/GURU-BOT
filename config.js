@@ -7,12 +7,12 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['917605902011', 'GURU', true],
-  ['6281255369012', 'Ash', true], 
+  [923175013358', 'SAHIL KING', true],
+  ['923078W83084', 'SAHIL KING', true], 
   [''] 
 ] //Number of owners
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "923175013358" //put your bot number here
 
 global.mods = ['917605902011','32460248586'] 
 global.prems = ['917605902011', '32460248586', '919398758484']
@@ -49,22 +49,22 @@ global.APIKeys = { // APIKey Here
   'https://api-fgmods.ddns.net': 'fg-dylux'
 }
 
-// Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+// Sticker SAHIL KING 👑
+global.botname = 'SAHIL KING 👑'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
-global.author = '@Asliguru' 
+global.packname = 'SAHIL KING 👑' 
+global.author = '@*𓆩❥⋆⃝*~ساحل~*𓆪࿐*' 
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
-global.dygp = 'https://chat.whatsapp.com/BFfD1C0mTDDDfVdKPkxRAA'
-global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
+global.igfg = '▢ Follow on Instagram\nhttps://chat.whatsapp.com/CDWzBxhrB4uEmDEavQjT70\n' 
+global.dygp = 'https://chat.whatsapp.com/CDWzBxhrB4uEmDEavQjT70'
+global.fgsc = 'https://whatsapp.com/channel/0029VaFv1RZ3QxRtLXfI993h' 
+global.fgyt = 'https://'
+global.fgpyp = 'https://'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
 
-global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*⌛ _Charging..._*\*𓆩❥⋆⃝*~ساحل~*𓆪࿐**'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
